@@ -1,16 +1,31 @@
-## Hi there 👋
+Hi 👋 I'm Tania Rose Jobi
 
+Data Analyst | Germany
 <!--
-**Tan1208257/Tan1208257** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+• MS in Data Analytics (Germany)  
+• Background in ML, Data Mining & OR  
+• Experience with Python, SQL, ML pipelines, and web deployment  
+• Currently building end-to-end data projects
 
-Here are some ideas to get you started:
+🛠 Tech Stack  
+• Languages: Python, SQL, Java  
+• ML: Scikit-learn, XGBoost, Pandas, NumPy  
+• Data: MySQL, PostgreSQL, BigQuery  
+• Backend: Flask, Spring Boot  
+• Frontend: Angular  
+• Tools: Git, Docker, AWS, Streamlit
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🚀 Featured Projects
+
+📌 Flight Delay Prediction  
+End-to-end ML project with preprocessing, model training, Flask API, Streamlit UI, AWS deployment  
+🔗 Repo link
+
+📌 Big Data Pipeline – US Flights (2018–2024)  
+ETL pipeline, feature engineering, model evaluation, and deployment  
+🔗 Repo link
+
+📫 Reach me at: taniarj1208@gmail.com  
+🔗 LinkedIn: linkedin.com/in/tania-rose-jobi
+
 -->
