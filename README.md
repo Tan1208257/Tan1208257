@@ -19,13 +19,13 @@ Data Analyst | Germany
 
 📌 Flight Delay Prediction  
 End-to-end ML project with preprocessing, model training, Flask API, Streamlit UI, AWS deployment  
-🔗 Repo link
+🔗 Repo link: 
 
 📌 Big Data Pipeline – US Flights (2018–2024)  
 ETL pipeline, feature engineering, model evaluation, and deployment  
-🔗 Repo link
+🔗 Repo link: 
 
 📫 Reach me at: taniarj1208@gmail.com  
 🔗 LinkedIn: linkedin.com/in/tania-rose-jobi
 
--->
+
