@@ -1,7 +1,7 @@
 Hi 👋 I'm Tania Rose Jobi
 
 Data Analyst | Germany
-<!--
+
 • MS in Data Analytics (Germany)  
 • Background in ML, Data Mining & OR  
 • Experience with Python, SQL, ML pipelines, and web deployment  
